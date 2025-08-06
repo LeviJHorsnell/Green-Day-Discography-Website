@@ -7,15 +7,10 @@ header {
    margin-top: 10px;
 }
 
-#hero_image {
-    background-image: url(images/live3.webp);
-    background-size: cover;
-    background-position: center;
-    height: 700px;
-    margin-top: 200px;
-    text-align: center;
-}
-
 h1 {
     color: aliceblue;
+}
+
+main {
+    font-size: larger;
 }
