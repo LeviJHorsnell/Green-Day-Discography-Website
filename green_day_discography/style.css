@@ -1,10 +1,7 @@
 header img{
-    float: left;
-    margin-top: -25px;
-}
+    margin-bottom: -20px;
+    margin-top: -17px;
 
-header {
-   margin-top: 10px;
 }
 
 h1 {
@@ -13,4 +10,91 @@ h1 {
 
 main {
     font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(184, 0, 0);
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 50px;
 }
+
+.left {
+    width: 250px;
+    float: left;
+    padding-right: 10px;
+}
+
+.right {
+    width: 250px;
+    float: right;
+}
+
+.title1 {
+    float: left;
+    padding-top: 10px;
+}
+
+.title {
+    float: right;
+}
+
+p {
+    color: aliceblue;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+footer {
+    background-color: rgb(17, 17, 17);
+    color: aliceblue;
+    padding: 15px;
+    text-align: center;
+}
+
+header {
+    background-image: url("images/header.png");
+    background-color: black;
+}
+
+.background-image {
+    opacity: 0.5;
+}
+
+nav {
+    background-color: rgb(17, 17, 17);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+nav a:visited {
+    color: aliceblue;
+}
+
+nav a:hover {
+    background-color: rgb(36, 36, 36);
+    color: rgb(255, 255, 255);
+}
+
+.rule_below {
+    border-bottom: aliceblue 1px solid;
+    padding-bottom: 8px;
+}
+
+body {
+    background-color: rgb(184, 0, 0);
+}
+
+nav a {
+text-decoration: none;
+width: 120px;
+padding: 10px;
+color: aliceblue;
+font-weight: bold;
+background-color: rgb(17, 17, 17);
+display: inline;
+}
+
