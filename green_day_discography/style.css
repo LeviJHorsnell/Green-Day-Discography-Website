@@ -1,7 +1,6 @@
 header img{
     margin-bottom: -20px;
     margin-top: -17px;
-
 }
 
 h1 {
@@ -19,24 +18,57 @@ main {
 
 .left {
     width: 250px;
-    float: left;
     padding-right: 10px;
+    float: left;
+    text-align: center;
 }
 
 .right {
     width: 250px;
-    float: right;
-}
-
-.title1 {
+    padding-right: 10px;
     float: left;
-    padding-top: 10px;
+    text-align: center middle
 }
 
-.title {
-    float: right;
+.slappy {
+    padding-bottom: 115px;
 }
 
+.kerplunk {
+    padding-bottom: 92px;
+}
+
+.dookie {
+    padding-bottom: 69px;
+}
+
+.insomniac {
+    padding-bottom: 90px;
+}
+
+.nimrod {
+    padding-bottom: 68px;
+}
+
+.warning {
+    padding-bottom: 90px;
+}
+
+.idiot {
+    padding-bottom: 68px;
+}
+
+.century {
+    padding-bottom: 90px;
+}
+
+.uno {
+    padding-bottom: 68px;
+}
+
+.dos {
+    padding-bottom: 90px;
+}
 p {
     color: aliceblue;
 }
@@ -55,10 +87,6 @@ footer {
 header {
     background-image: url("images/header.png");
     background-color: black;
-}
-
-.background-image {
-    opacity: 0.5;
 }
 
 nav {
@@ -97,4 +125,5 @@ font-weight: bold;
 background-color: rgb(17, 17, 17);
 display: inline;
 }
+
 
