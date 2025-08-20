@@ -18,16 +18,10 @@ main {
 
 .left {
     width: 250px;
-    padding-right: 10px;
     float: left;
     text-align: center;
-}
-
-.right {
-    width: 250px;
-    padding-right: 10px;
-    float: left;
-    text-align: center middle
+    border: black 4px solid;
+    margin-right: 10px;
 }
 
 .slappy {
@@ -42,64 +36,16 @@ main {
     padding-bottom: 79px;
 }
 
-.insomniac {
+.onehundred {
     padding-bottom: 100px;
 }
 
-.nimrod {
+.seventyeight {
     padding-bottom: 78px;
 }
 
-.warning {
-    padding-bottom: 100px;
-}
-
-.idiot {
-    padding-bottom: 78px;
-}
-
-.century {
-    padding-bottom: 100px;
-}
-
-.uno {
-    padding-bottom: 100px;
-}
-
-.dos {
-    padding-bottom: 100px;
-}
-
-.tre {
-    padding-bottom: 100px;
-}
-
-.radio {
-    padding-bottom: 100px;
-}
-
-.motherfuckers {
-    padding-bottom: 100px;
-}
-
-.saviors {
+.eighty {
     padding-bottom: 80px;
-}
-
-.bible {
-    padding-bottom: 100px;
-}
-
-.awesome {
-    padding-bottom: 100px;
-}
-
-.woodstock {
-    padding-bottom: 100px;
-}
-
-.bbc {
-    padding-bottom: 100px;
 }
 p {
     color: aliceblue;
@@ -107,6 +53,7 @@ p {
 
 h2 {
     color: aliceblue;
+    text-decoration: underline;
 }
 
 footer {
